@@ -8,7 +8,7 @@ To convert a base 10 number to binary follow these steps.
 Loop as long as num greater than 0
 
 	base		num /   remainder  %
-	2		    |65  		1	
+	2		    |65           1	
 	2		    |32		  0
 	2		    |16		  0
 	2		    |8		  0
